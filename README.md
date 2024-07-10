@@ -1,5 +1,5 @@
 
-<p align="left">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=8D21F7FF&multiline=true&width=500&height=80&lines=NLP+%26+Researcher;LLM+%7C+Engineering" alt="Typing SVG" /></a>
 
 <a href="mailto:1751520702@qq.com">
