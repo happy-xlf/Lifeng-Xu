@@ -28,7 +28,8 @@
 ### My Code Masterpiece
 
 #### [1. Poem_Knowledge](https://github.com/happy-xlf/Poem_Knowledge)
-<iframe width="800" height="500" src="https://www.bilibili.com/video/BV1vF411i7An?t=171.7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="[视频链接](https://www.bilibili.com/video/BV1vF411i7An/?spm_id_from=333.999.0.0&vd_source=d07c3b0e22dabb97b87681a762448438)" controls="controls" width="500" height="300">古诗词知识图谱</video>
+
 
 </br>
 
