@@ -14,7 +14,7 @@
 
 * 💻 Currently study on Vision Large Language Model **VLM** and **RAG**
 
-📫 Drop me an email at: 1751520702@qq.com
+📫 Drop me an email at: 1751520702@qq.com, lifeng.xu@wenge.com
 
 ### My Github Stats
 
